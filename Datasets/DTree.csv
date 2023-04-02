@@ -1,0 +1,15 @@
+Ob-Havo,Temp,Namlik,Shamol,Oyinchilar
+Yomg'ir,Issiq,Yuqori,False,25
+Yomg'ir,Issiq,Yuqori,True,30
+Bulutli,Issiq,Yuqori,False,46
+Quyoshli,Yaxshi,Yuqori,False,45
+Quyoshli,Salqin,Normal,False,52
+Quyoshli,Salqin,Normal,True,23
+Bulutli,Salqin,Normal,True,43
+Yomg'ir,Yaxshi,Yuqori,False,35
+Yomg'ir,Salqin,Normal,False,38
+Quyoshli,Yaxshi,Normal,False,46
+Yomg'ir,Yaxshi,Normal,True,48
+Bulutli,Yaxshi,Yuqori,True,52
+Bulutli,Issiq,Normal,False,44
+Quyoshli,Yaxshi,Yuqori,True,30
